@@ -1,4 +1,4 @@
-
+//This is a test of git
 public class Scratch 
 {
 	
